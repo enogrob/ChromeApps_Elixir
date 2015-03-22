@@ -1,0 +1,17 @@
+{
+  "name": "ElixirConf2014",
+  "description": "Access ElixirConf2014",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

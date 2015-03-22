@@ -1,0 +1,17 @@
+{
+  "name": "ElixirSips",
+  "description": "Access ElixirSips",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://elixirsips.com/"
+    ],
+    "launch": {
+      "web_url": "http://elixirsips.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

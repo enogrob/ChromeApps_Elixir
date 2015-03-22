@@ -1,0 +1,17 @@
+{
+  "name": "Elixir Wiki",
+  "description": "Access Elixir Wiki",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/elixir-lang/elixir/wiki"
+    ],
+    "launch": {
+      "web_url":"https://github.com/elixir-lang/elixir/wiki"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
