@@ -38,7 +38,7 @@ ChromeApps_Elixir/
 $
 ```
 
-### 2. Open `Chrome` with the following url:
+### 2. Open Chrome with the following url:
 In order to load the `Chrome Apps` for Elixir, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `ChromeApps_Elixir` e.g. `Elixir-Blog`, and then repet that for the other apps.
 
 ```
@@ -47,6 +47,6 @@ chrome://extensions/
 
 ![Chrome screenshot](images/chrome_screenshot1.png)
 
-### 3 After load all the `Chrome Apps` for Elixir, Chrome will look like the screenshot below:
+### 3 After load all the Chrome Apps for Elixir, Chrome will look like the screenshot below:
 
 ![Chrome screenshot](images/chrome_screenshot2.png)
