@@ -47,6 +47,6 @@ chrome://extensions/
 
 ![Chrome screenshot](images/chrome_screenshot1.png)
 
-### 3 After load all the Chrome Apps for Elixir, Chrome will look like the screenshot below:
+### 3. After load all the Chrome Apps for Elixir, Chrome will look like the screenshot below:
 
 ![Chrome screenshot](images/chrome_screenshot2.png)
