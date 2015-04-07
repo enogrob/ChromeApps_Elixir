@@ -1,0 +1,17 @@
+{
+  "name": "Elixre",
+  "description": "Access Elixre",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.elixre.uk/"
+    ],
+    "launch": {
+      "web_url": "http://www.elixre.uk/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
