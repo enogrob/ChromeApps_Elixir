@@ -1,0 +1,17 @@
+{
+  "name": "erlide",
+  "description": "Access erlide",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://erlide.org/"
+    ],
+    "launch": {
+      "web_url": "http://erlide.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

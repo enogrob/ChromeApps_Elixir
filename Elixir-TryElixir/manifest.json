@@ -1,0 +1,17 @@
+{
+  "name": "TryElixir",
+  "description": "Access TryElixir",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://elixir-console.herokuapp.com/"
+    ],
+    "launch": {
+      "web_url": "http://elixir-console.herokuapp.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

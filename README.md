@@ -26,20 +26,29 @@ ChromeApps_Elixir/
 ├── Elixir-Blog
 ├── Elixir-Conf2014
 ├── Elixir-ElixirAPI
+├── Elixir-ElixirWikipedia
+├── Elixir-Elixre
 ├── Elixir-Erlang
+├── Elixir-ErlangOTP
 ├── Elixir-ErlangSolutions
 ├── Elixir-GoogleGroups
 ├── Elixir-Hex
 ├── Elixir-Homepage
 ├── Elixir-Phoenix
+├── Elixir-PhoenixAPI
 ├── Elixir-Sips
+├── Elixir-TryElixir
 ├── Elixir-Wiki
-:
+├── Elixir-erlide
+├── README.md
+└── images
+
+18 directories, 1 file
 $
 ```
 
 ### 2. Open Chrome with the following url:
-In order to load the `Chrome Apps` for Elixir, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `ChromeApps_Elixir` e.g. `Elixir-Blog`, and then repet that for the other apps.
+In order to load the `Chrome Apps` for Elixir, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `ChromeApps_Elixir` e.g. `Elixir-Blog`, and then repeat that for the other apps.
 
 ```
 chrome://extensions/
