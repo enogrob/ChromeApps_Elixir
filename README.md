@@ -23,6 +23,7 @@ drwxr-xr-x   18 enogrob  staff   612B Mar 23 08:12 ChromeApps_Elixir/
 
 $ tree -L 1 ChromeApps_Elixir/
 ChromeApps_Elixir/
+├── Elixir-Awesome
 ├── Elixir-Blog
 ├── Elixir-Conf2014
 ├── Elixir-ElixirAPI
@@ -31,6 +32,7 @@ ChromeApps_Elixir/
 ├── Elixir-Erlang
 ├── Elixir-ErlangOTP
 ├── Elixir-ErlangSolutions
+├── Elixir-Exrm
 ├── Elixir-GoogleGroups
 ├── Elixir-Hex
 ├── Elixir-Homepage
@@ -43,7 +45,7 @@ ChromeApps_Elixir/
 ├── README.md
 └── images
 
-18 directories, 1 file
+20 directories, 1 file
 $
 ```
 
