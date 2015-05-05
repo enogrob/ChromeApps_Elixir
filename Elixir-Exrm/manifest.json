@@ -1,0 +1,17 @@
+{
+  "name": "Exrm",
+  "description": "Access Exrm",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/bitwalker/exrm"
+    ],
+    "launch": {
+      "web_url": "https://github.com/bitwalker/exrm"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
