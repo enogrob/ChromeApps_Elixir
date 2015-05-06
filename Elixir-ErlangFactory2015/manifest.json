@@ -1,0 +1,17 @@
+{
+  "name": "ErlangFactory2015",
+  "description": "Access ErlangFactory2015",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
