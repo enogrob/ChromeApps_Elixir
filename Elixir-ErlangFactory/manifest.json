@@ -1,0 +1,17 @@
+{
+  "name": "Erlang Factory",
+  "description": "Access Erlang Factory",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.erlang-factory.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.erlang-factory.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
