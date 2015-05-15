@@ -30,6 +30,7 @@ ChromeApps_Elixir/
 ├── Elixir-ElixirWikipedia
 ├── Elixir-Elixre
 ├── Elixir-Erlang
+├── Elixir-ErlangFactory
 ├── Elixir-ErlangFactory2015
 ├── Elixir-ErlangOTP
 ├── Elixir-ErlangSolutions
@@ -46,7 +47,7 @@ ChromeApps_Elixir/
 ├── README.md
 └── images
 
-21 directories, 1 file
+22 directories, 1 file
 $
 ```
 
